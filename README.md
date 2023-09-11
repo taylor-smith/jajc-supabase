@@ -9,7 +9,8 @@ A JIRA clone built with SvelteKit and Supabase.
 - Joel Hooks' essay on [crafting a business oriented developer portfolio](https://joelhooks.com/developer-portfolio/)
 
 ### Goals
-- Stand up Supabase integration (logged 9/11)
+- ~~Stand up Supabase integration~~ (logged 9/11, completed 9/11)
+- Set up authentication functionality (logged 9/11)
 
 
 
